@@ -1,0 +1,23 @@
+h1 {
+	font-family:Calibri, Verdana, Arial;
+	font-size:36px;
+	color:red;
+}
+
+h2 {
+	font-family: Calibri, Verdana, Arial;
+	font-size: 24px;
+	color:green;
+}
+
+h3 {
+	font-family: Calibri, Verdana, Arial;
+	font-size: 20px;
+	color:blue;
+}
+
+p{
+	font-family: Calibri, Verdana, Arial;
+	font-size: 15px;
+	color:black;
+}
